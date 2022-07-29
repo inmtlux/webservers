@@ -1,0 +1,11 @@
+html, body{
+    background-color: gray;
+}
+
+#primero{
+    background-color: aqua;
+    margin: auto;
+    align-content: center;
+    text-align: center;
+    width: 50%;
+}
